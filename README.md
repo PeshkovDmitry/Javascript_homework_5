@@ -27,10 +27,10 @@ const post = {
         {
             userId: 10,
             userName: "Alex",
-            text: "lorem ipsum", // вывести это число
+            text: "lorem ipsum", 
             rating: {
                 likes: 10,
-                dislikes: 2, 
+                dislikes: 2, // вывести это число
             },
         },
         {
